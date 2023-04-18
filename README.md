@@ -1,5 +1,4 @@
 ## Hi there 👋 My name is Arnis
----
 ### About me
 - As a C# programmer, I really appreciate the power of code and its ability to turn interesting ideas into reality. I'm constantly trying to learn new skills and occasionally work on my own little projects. I am happy to be part of a community of programmers who are constantly innovating and developing the field.
 ---
