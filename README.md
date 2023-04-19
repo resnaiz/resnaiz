@@ -4,6 +4,11 @@
 ### About me
 - As a C# programmer, I really appreciate the power of code and its ability to turn interesting ideas into reality. I'm constantly trying to learn new skills and occasionally work on my own little projects. I am happy to be part of a community of programmers who are constantly innovating and developing the field.
 ---
+### Projects
+- SQL: SQL was used to manage and manipulate the relational databases by writing queries to retrieve data, create tables and modify data structures.
+- Flight Planner: Web application development using C#, HTTP, Web API and TypeScript. The project used Flight programming API, which required problem solving skills.
+- Scooter Rental: Test-driven development was implemented to ensure that every feature was tested and all defects were fixed and resolved early in the development cycle, thus improving the quality of the software.
+---
 ### Contact info
 - E-mail - arnispe03@gmail.com
 - Number - 28833826
